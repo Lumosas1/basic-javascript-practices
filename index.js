@@ -23,8 +23,8 @@ function kareninAlani(kenaruzunlugu) {
 	4. Hesaplanan çemberin çevresi döndürülecektir.
 */
 
-function cemberinCevresi(/* kodlar buraya */) {
-  /* kodlar buraya */
+function cemberinCevresi(yaricap) {
+ return 2 * pi * yaricap;
 }
 
 /* (Oto test yok) Yukarıdaki cemberinCevresi fonksiyonunu yarıçap = 5 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
